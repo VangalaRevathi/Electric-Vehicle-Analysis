@@ -1,7 +1,9 @@
 **AtliQ Motors Electric Vehicle Analysis - PowerBI**
 
 Project details: [Details link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+
 Live dashboard: [Link](https://app.powerbi.com/view?r=eyJrIjoiODUzNDZmN2MtMzM4YS00NzdmLWExYjYtMDdkZmFlYThjNzE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 Presentation Video: 
 
 **Problem Statement:** 
@@ -17,10 +19,13 @@ working in this team.
 **Task:**
 
 1.Begin your analysis with the primary questions given
+
 2.Design a dashboard with your metrics and analysis. The dashboard should be 
 self-explanatory and easy to understand. 
-3. You can use additional data based on your own research to support your 
+
+3.You can use additional data based on your own research to support your 
 recommendations and provide more insights.
+
 
 **Data Model:**
 ![Screenshot 2025-02-05 070356](https://github.com/user-attachments/assets/cb6459c8-bd1d-403e-a62b-9c554f5b1f3b)
