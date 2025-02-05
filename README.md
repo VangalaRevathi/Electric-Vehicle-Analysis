@@ -1,5 +1,5 @@
 **AtliQ Motors Electric Vehicle Analysis - PowerBI**
-Project details: https://codebasics.io/challenge/codebasics-resume-project-challenge
+Project details: [Details link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 Live dashboard: https://app.powerbi.com/view?r=eyJrIjoiODUzNDZmN2MtMzM4YS00NzdmLWExYjYtMDdkZmFlYThjNzE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 Presentation Video: 
 
