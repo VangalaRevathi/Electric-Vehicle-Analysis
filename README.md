@@ -32,9 +32,10 @@ recommendations and provide more insights.
 
 **Dashboard Design:**
 
-![Screenshot 2025-01-30 173118](https://github.com/user-attachments/assets/1965ec6f-79d6-40df-a1d9-c8f1130542d7)
-![Screenshot 2025-01-30 173149](https://github.com/user-attachments/assets/6537750d-d36e-41db-b066-9afbc6e6d355)
-![Screenshot 2025-01-30 173136](https://github.com/user-attachments/assets/18270d08-b997-45f0-9041-8a4e33621d37)
+![Screenshot 2025-02-05 152145](https://github.com/user-attachments/assets/d6aa11c6-3dfb-46cc-bfe9-36fc6b7083b7)
+![Screenshot 2025-01-30 173149](https://github.com/user-attachments/assets/d27fef0e-0f2a-4d53-a9a5-e7534f5fe8f1)
+![Screenshot 2025-01-30 173136](https://github.com/user-attachments/assets/3be7c015-2bef-4df0-bea7-7788c60d4c25)
+
 
 
 Please visit the live dashboard for more Insights.
@@ -44,4 +45,5 @@ Please visit the live dashboard for more Insights.
 1.A combination of Gujarat for its industrial support and Maharashtra for its infrastructure and strong automotive ecosystem would be ideal for establishing an EV manufacturing unit.
 
 2.The positive correlation between the no.of charging stations, EVsales and penetration rate indicates that with the increase in charging stations the EV sales will also increase.
+
 
