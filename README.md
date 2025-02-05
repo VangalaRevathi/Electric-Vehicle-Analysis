@@ -1,10 +1,9 @@
 **AtliQ Motors Electric Vehicle Analysis - PowerBI**
 Project details: [Details link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
-Live dashboard: https://app.powerbi.com/view?r=eyJrIjoiODUzNDZmN2MtMzM4YS00NzdmLWExYjYtMDdkZmFlYThjNzE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Live dashboard: [Link](https://app.powerbi.com/view?r=eyJrIjoiODUzNDZmN2MtMzM4YS00NzdmLWExYjYtMDdkZmFlYThjNzE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 Presentation Video: 
 
-**Problem Statement:
-** 
+**Problem Statement:** 
 AtliQ Motors is an automotive giant from the USA specializing in electric vehicles 
 (EV). In the last 5 years, their market share rose to 25% in electric and hybrid 
 vehicles segment in North America. As a part of their expansion plans, they wanted 
