@@ -1,0 +1,97 @@
+rewrite a linkedin post to explain my ev project with emojis and point wise 
+
+Hello everyone, 
+
+I am excited to share my first Resume Challenge of CodeBasic on Electric Vehicle Analysis experience and learnings with you.
+ Project Objective:AtliQ Motors is a leading U.S. electric vehicle company, holds a 25% market share in North America.It plans to expand into India, where its market share is under 2%.
+
+Focus of the study: EV and hybrid sector in India to ensure a successful launch.
+DAshboard contains:
+1.MAkers Trends
+2.Geographic Trends
+3.Seasonal Trends
+4.MAker's & State Correlations
+
+My learnings:
+
+1.Learned about the Automotive domain KPI's like 
+Compounded GRowth RAte:It is a measure of the average annual growth rate of an investment, sales, or any metric over a specified time period, assuming that growth occurs at a steady rate.
+ PEnetration RAte:the percentage of total vehicles sold or in use within a specific region, time period, or market segment that are electric vehicles (EVs).
+Projected EV Sales:Projected EV Sales refers to the estimated number of electric vehicles expected to be sold in the future based on historical data, trends, and predictive models.
+Revenue Growth Rate:
+Revenue Growth Rate measures the percentage increase in revenue over a specific period. It shows how quickly a company's or market's revenue is growing year over year or over multiple years.
+
+2.Learned to use historical and projected data for making evidence-based decisions.
+
+3.Created visualizations to represent sales trends, revenue growth, penetration rates, and regional performance.
+
+ I would like to share the brief gist of "Technical skills" which I acquired and used practically in this journey:
+ ✒ Power Query:-
+ ↪ ETL(Extract, Transform , Load) software in Power Bi, M language,
+✒ Data Modelling:-
+ ↪ Establishing the relationships between tables.
+✒ DAX language(Data Analysis Expression):-
+ ↪ New Measure
+ ↪ Calculated Column
+✒ Rules for designing effective Dashboard
+✒ Creating a Scroller
+
+5.Used interactive elements like bar charts, line graphs, and tables to make insights accessible and actionable.
+
+
+I extend my sincere appreciation to Dhaval Patel Hemanand Vadivel sir and whole Codebasics team for their guidance.
+
+Live Dashboard: https://lnkd.in/girC76k7
+Git Hub Link: https://lnkd.in/gSE7GF7X
+
+Tagging for better reach: Ashish Babaria Shashank Singh 🇮🇳Munna Das NAVEEN S Srinath Ankolla Khushboo Rani 
+After exploring, feel free to share your feedback, questions, or insights. I'd love to hear from you!
+
+
+🚀 Excited to Share My EV Analysis Journey! 🚗⚡
+
+Hello everyone,
+
+I'm thrilled to share my first Resume Challenge from CodeBasics on Electric Vehicle (EV) Analysis and the valuable learnings I gained!
+
+🔹 Project Objective
+AtliQ Motors, a leading U.S. EV company with 25% market share in North America, aims to expand into India (currently <2% market share). My analysis focused on:
+✅ Understanding EV & Hybrid sector trends in India for a successful launch.
+
+📊 Dashboard Highlights:
+1️⃣ Makers' Trends 🏭
+2️⃣ Geographic Trends 🌍
+3️⃣ Seasonal Trends 📆
+4️⃣ Maker & State Correlations 🔗
+
+💡 Key Learnings
+🔹 Automotive KPIs:
+🔹 CAGR (Compounded Growth Rate) – Measures average annual growth over time 📈
+🔹 Penetration Rate – % of EVs in total vehicle sales 🚘⚡
+🔹 Projected EV Sales – Future EV sales based on data & trends 📊
+🔹 Revenue Growth Rate – % increase in revenue over time 💰
+
+🔹 Data-Driven Decision Making
+✅ Used historical & projected data for insights
+✅ Built visualizations to showcase sales trends, revenue growth, and market penetration
+
+🛠 Technical Skills Acquired
+✒ Power Query 🔄 – ETL (Extract, Transform, Load) in Power BI (M Language)
+✒ Data Modeling 🔗 – Establishing table relationships
+✒ DAX (Data Analysis Expressions) ✍️ – New Measures, Calculated Columns
+✒ Dashboard Design Principles 🎨 – Effective layouts & visual storytelling
+✒ Scroller Creation 🔄 – Enhancing interactivity
+
+📊 Interactive Dashboard Features
+✅ Bar charts, Line graphs & Tables for actionable insights 📊
+
+🙏 A huge thanks to Dhaval Patel, Hemanand Vadivel Sir, and the entire CodeBasics team for their guidance!
+
+🔗 Live Dashboard: https://lnkd.in/girC76k7
+🔗 GitHub Repository: https://github.com/VangalaRevathi/Electric-Vehicle-Analysis/blob/main/README.md
+
+🔖 Tagging for reach: Ashish Babaria, Shashank Singh 🇮🇳, Munna Das, NAVEEN S, Srinath Ankolla, Khushboo Rani
+
+💬 I’d love to hear your feedback, insights, or questions! 🚀👇
+
+
